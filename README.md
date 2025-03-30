@@ -2,7 +2,7 @@
 
 Soy Analista QA con experiencia en aseguramiento de calidad y pruebas de software. Me apasiona garantizar que el software sea robusto, confiable y de alto rendimiento. He trabajado con pruebas manuales y automatizadas, así como en Performance Testing.
 
-#$ 🚀 Sobre mí
+## 🚀 Sobre mí
 
 🔍 Enfoque en pruebas WEB, API y móvil.
 
@@ -14,7 +14,7 @@ Soy Analista QA con experiencia en aseguramiento de calidad y pruebas de softwar
 
 🤝 Colaborando en equipos multidisciplinarios para fomentar una cultura de calidad.
 
-#$ 🛠️ Tecnologías y Herramientas
+## 🛠️ Tecnologías y Herramientas
 
 ✅ Automatización: Selenium, Puppeteer, Katalon Studio✅ Performance Testing: JMeter, K6, OctoPerf✅ Gestión de pruebas: Azure DevOps, Jira✅ Bases de datos: MySQL, MongoDB✅ Lenguajes y otros: JavaScript, Node.js, HTML5, CSS3
 
