@@ -1,8 +1,8 @@
-###👋 Hola, soy Yohan Gómez (YohanQA)
+### 👋 Hola, soy Yohan Gómez (YohanQA)
 
 Soy Analista QA con experiencia en aseguramiento de calidad y pruebas de software. Me apasiona garantizar que el software sea robusto, confiable y de alto rendimiento. He trabajado con pruebas manuales y automatizadas, así como en Performance Testing.
 
-##🚀 Sobre mí
+## 🚀 Sobre mí
 
 🔍 Enfoque en pruebas WEB, API y móvil.
 
