@@ -6,15 +6,15 @@ Soy Analista QA con experiencia en aseguramiento de calidad y pruebas de softwar
 
 🔍 Enfoque en pruebas WEB, API y móvil.
 
-🤖 Explorando la automatización con Selenium y K6.
+🤖 Explorando la automatización de pruebas.
 
-📊 Interesado en el Performance Testing con JMeter y OctoPerf.
+📊 Mejorando en Performance con JMeter.
 
 🛠️ Aprendiendo y mejorando en Git, AWS y CI/CD.
 
 🤝 Colaborando en equipos multidisciplinarios para fomentar una cultura de calidad.
 
-## 🛠️ Tecnologías y Herramientas
+<!-- ## 🛠️ Tecnologías y Herramientas
 
 ✅ Automatización: Selenium, Puppeteer, Katalon Studio✅ Performance Testing: JMeter, K6, OctoPerf✅ Gestión de pruebas: Azure DevOps, Jira✅ Bases de datos: MySQL, MongoDB✅ Lenguajes y otros: JavaScript, Node.js, HTML5, CSS3
 
@@ -22,6 +22,7 @@ Soy Analista QA con experiencia en aseguramiento de calidad y pruebas de softwar
 
 (Aquí agregaré enlaces a proyectos en GitHub cuando los tenga)
 
+-->
 ## 📫 Contáctame
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/yohangomezqa/)
