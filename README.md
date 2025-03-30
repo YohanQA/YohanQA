@@ -22,8 +22,6 @@ Soy Analista QA con experiencia en aseguramiento de calidad y pruebas de softwar
 
 (Aquí agregaré enlaces a proyectos en GitHub cuando los tenga)
 
-## 📬 Contáctame
-
 ## 📫 Contáctame
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/yohangomezqa/)
